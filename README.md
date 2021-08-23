@@ -12,8 +12,7 @@ Infinity Racer
 - Jannis Klein
 
 # Featureliste
-Skybox im Retrowave-Stil (Jannis)
-Verschiedene Kameraeinstellungen, die per Knopfdruck gewechselt werden können [First- und Third-Person] [K] (Jannis)
+Skybox im Retrowave-Stil (Jannis)  Verschiedene Kameraeinstellungen, die per Knopfdruck gewechselt werden können [First- und Third-Person] [K] (Jannis)  
 Cel-Shader [O - Der Buchstabe] (Tom)
 Map-Generierung via vorgefertigter Blöcke, die aneinander gereiht werden (Jannis und Tom)
 Kollisionserkennung [M] (Jannis)
